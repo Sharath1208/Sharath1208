@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharath1208
 - 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...Data Analytics professional certificate by Google
+- 🌱 I have completed...Data Analytics professional certificate by Google
 - 💞️ I’m looking to collaborate on ...Data Analytics Project
 - 📫 How to reach me ...thirusharu04@gmail.com
 
